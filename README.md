@@ -26,3 +26,17 @@ responsive design patterns, and platform-specific styling in React Native.
 3. Install iOS pods (macOS only): `cd ios && pod install`
 4. Run on Android: `npx react-native run-android`
 5. Run on iOS: `npx react-native run-ios`
+## Project Structure
+src/
+├── components/
+│ ├── DashboardHeader.js
+│ ├── ResponsiveGrid.js
+│ └── widgets/
+│ ├── BaseWidget.js
+│ └── StatisticWidget.js
+├── screens/
+│ └── DashboardScreen.js
+├── styles/
+│ └── theme.js
+└── utils/
+└── responsive.js
