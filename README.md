@@ -4,7 +4,7 @@
 - **Student ID:** N01697374
 - **Course:** CPAN 213
 - **Lab:** Lab 4 - Responsive Layouts with Flexbox
-- **Date:** September 23, 2025
+- **Date:** October 16, 2025
 ## Project Description
 This responsive dashboard application demonstrates advanced Flexbox layout techniques,
 responsive design patterns, and platform-specific styling in React Native.

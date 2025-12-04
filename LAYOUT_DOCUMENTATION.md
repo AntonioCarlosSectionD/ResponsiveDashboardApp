@@ -2,7 +2,7 @@
 ## Student Information
 - **Name:** Antonio Carlos
 - **Student ID:** N01697374@humber.ca
-- **Date Submitted:** October 15, 2025
+- **Date Submitted:** October 16, 2025
 - **Lab:** CPAN 213 - Lab 4
 ---
 ## Responsive Design Implementation
@@ -114,8 +114,7 @@ DashboardScreen
 
 ### Challenge 2: [Icons not showing up on Android]
 **Problem:** [Vector icons missing at first]
-**Solution:** [Re-linked the library + ran pod install]
-**Learning:** [Android linking issues still happen in 2025.]
+**Solution:** [n/a]
 
 ---
 ## Testing Results
